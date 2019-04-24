@@ -9,5 +9,5 @@ two stepper motors
 3. card_test & read_write_test - These files were used to ensure the SD card module was functioning properly
 4. uv_sensor_test - This file was used to test the UV sensor and ensure it worked
 5. altimeter_test - This file was used to test the altitude sensor and ensure it worked
-6. motor_test - This file was used to test the stepper motors and ensure they worked
+6. motorTest - This file was used to test the stepper motors and ensure they worked
 7. tracker_concept - This file was used to test the concept of the solar tracking system using photoresistors and some LEDs
